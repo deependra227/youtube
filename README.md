@@ -1,6 +1,15 @@
-# youtube_foreground
-Listen to your YouTube Videos in background.
-Download app from [here](https://github.com/deependra227/youtube/raw/master/apk/youtube.apk)
+# YouTube_
+Listen to your YouTube Videos in background.<br/>
+Now with ***Picture-in-Picture Mode***.
+Download the app from [here](https://github.com/deependra227/youtube/raw/master/apk/YouTube_v2.apk) (47.2 MB)
+
+![](https://github.com/deependra227/youtube/raw/master/apk/screenshot.gif)
+
+Size of the app will be reduce in future.
+
+Without Picture-in-Picture Mode.
+Download the app from [here](https://github.com//deependra227/youtube/raw/master/apk/Youtube_v1.apk) (6.29 MB)
+
 
 ## Getting Started
 
