@@ -1,11 +1,13 @@
 # YouTube_
-Listen to your YouTube Videos in background.<br/>
-Now with ***Picture-in-Picture Mode***.
-Download the app from [here](https://github.com/deependra227/youtube/raw/master/apk/YouTube_v2.apk) (6.4 MB)
+An Cross-Plateform application that helps you to listen your Favourite YouTube Videos in background.<br/></br>
+Now you can even download your YouTube videos on your device.</br>
+You can view the Youtube Videos in ***Picture-in-Picture Mode*** also.</br>
+Download the app from [here](https://github.com/deependra227/youtube/raw/master/apk/YouTube_v3.apk) (7.4 MB)
 
 ![](https://github.com/deependra227/youtube/raw/master/apk/screenshot.gif)
 
-Size of the app will be reduce in future.
+`To reduce the size of the app, I have splitted the apk according to different platform.`</br>
+ `Find your platform specific apk file from apk folder.`
 
 
 
