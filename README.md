@@ -4,13 +4,15 @@ Now you can even download your YouTube videos on your device.</br>
 You can view the Youtube Videos in ***Picture-in-Picture Mode*** also.</br>
 Download the app from [here](https://github.com/deependra227/youtube/raw/master/apk/YouTube_v3.apk) (7.4 MB)
 
-![](https://github.com/deependra227/youtube/raw/master/apk/screenshot.gif)
-
-`To reduce the size of the app, I have splitted the apk according to different platform.`</br>
- `Find your platform specific apk file from apk folder.`
-
-
-
+![](https://github.com/deependra227/youtube/raw/master/apk/screenshot.gif)</br>
+## FAQ
+- ***If above download link App doesn't Install***</br>
+To reduce the size of the app, I have splitted the apk according to different platform.</br>
+Find your platform specific apk file from apk folder.</br>
+ - ***If App doesn't work in the background***</br>
+If the app doesn't work in the background, make sure that your mobile doesn't stop the app from running in the background. [Click here to know](https://dontkillmyapp.com).</br>
+- ***To Turn on Dark Mode***</br>
+Click on your profile picture at right top -> Desktop ->  Click on your profile picture at right top -> Dark theme On -> Toggle on -> click on home icon left bottom.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
